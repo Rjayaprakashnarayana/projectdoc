@@ -1,0 +1,25 @@
+﻿IB_FLAG,TXN_CCY,OPER_DPST_FLAG,LV_DMC_CTRY,FRS_ACCOUNT_CLASS,ACCT_TYP,ACTG_UNIT_NM,ROW_SRC_IND
+N,CNY,Y,GB,OVDFT-LIAB,L,Inventory Position Amount,PPSL 
+Y,USD,N,GB,MULTIPROD,S,Trans Notional Recvable (FS),PPSL 
+N,KRW,N,SG,OVDFT-LIAB,L,Inventory Position Amount,PPSL 
+N,KRW,N,SG,OVDFT-LIAB,L,Inventory Position Amount,PPSL 
+N,CLP,Y,GB,OVDFT-LIAB,L,Inventory Position Amount,PPSL 
+Y,TWD,N,TW,MULTIPROD,R,Transfer Pricing P&L,PPSL 
+N,BRL,Y,LU,OVDFT-LIAB,L,Inventory Position Amount,PPSL 
+N,VND,Y,GB,OVDFT-LIAB,L,Inventory Position Amount,PPSL 
+N,PKR,Y,GB,OVDFT-LIAB,L,Inventory Position Amount,PPSL 
+N,TWD,N,SG,MULTIPROD,S,Account Sum of CR Transactions,C    
+N,IDR,Y,LU,OVDFT-LIAB,L,Inventory Position Amount,PPSL 
+N,KRW,Y,LU,OVDFT-LIAB,L,Inventory Position Amount,PPSL 
+Y,MYR,Y,LU,OVDFT-LIAB,L,Inventory Position Amount,PPSL 
+Y,TWD,N,TW,MULTIPROD,R,Transfer Pricing P&L,PPSL 
+N,TWD,Y,GB,OVDFT-LIAB,L,Inventory Position Amount,PPSL 
+Y,USD,N,GB,MULTIPROD,S,Trans Notional Recvable (FS),PPSL 
+N,TWD,N,SG,MULTIPROD,S,Account Sum of CR Transactions,C    
+N,THB,N,TH,OVDFT-LIAB,L,Inventory Position Amount,PPSL 
+N,THB,N,TH,OVDFT-LIAB,L,Inventory Position Amount,PPSL 
+N,KRW,Y,LU,OVDFT-LIAB,L,Inventory Position Amount,PPSL 
+N,BRL,Y,GB,OVDFT-LIAB,L,Inventory Position Amount,PPSL 
+N,GBP,N,JE,MULTIPROD,S,Trans Notional Payable (FS),PPSL 
+N,NZD,N,JE,MULTIPROD,S,Trans Notional Payable (FS),PPSL 
+N,TWD,N,LU,OVDFT-LIAB,L,Inventory Position Amount,PPSL 
