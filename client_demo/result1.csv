@@ -1,0 +1,488 @@
+IB_FLAG,TXN_CCY,OPER_DPST_FLAG,LV_DMC_CTRY,FRS_ACCOUNT_CLASS,ACCT_TYP,ACTG_UNIT_NM,ROW_SRC_IND
+Y,RUB,N,RU,MULTIPROD,S,Treasury Trn Px PL - Funding Exp,C    
+Y,RUB,N,RU,MULTIPROD,S,MTD Avg Principal Balance CR,C    
+Y,RUB,N,RU,MULTIPROD,S,MTD Avg Principal Balance DB,C    
+N,THB,N,TH,MULTIPROD,S,Account Sum of CR Transactions,C    
+N,THB,N,TH,MULTIPROD,S,Account Sum of DB Transactions,C    
+Y,AUD,N,AU,MULTIPROD,S,Treasury Trn Px PL - Funding Exp,C    
+Y,EUR,N,ID,MULTIPROD,S,Account Sum of DB Transactions,C    
+Y,AUD,N,AU,MULTIPROD,S,Original Principal,C    
+Y,AUD,N,AU,MULTIPROD,S,Since Inception-Interest Accrue,C    
+Y,AUD,N,AU,MULTIPROD,S,Overdue Penalty Interest,C    
+Y,EUR,N,ID,MULTIPROD,S,Account Sum of CR Transactions,C    
+Y,AUD,N,AU,MULTIPROD,S,Scheduled Principal Balance Amt,C    
+Y,AUD,N,AU,MULTIPROD,S,CE - Unpaid Principal Bal Amt,C    
+Y,AUD,N,AU,MULTIPROD,S,Interest IENC-Not Due,C    
+Y,AUD,N,AU,MULTIPROD,S,Interest IENC-Due,C    
+N,USD,N,US,CASH,A,Principal Balance,C    
+N,USD,N,LU,CASH,A,Principal Balance,C    
+N,USD,N,US,CASH,A,Principal Balance,C    
+Y,EUR,N,ID,CASH,A,Principal Balance,PPSL 
+Y,EUR,N,ID,CASH,A,Principal Balance,PPSL 
+N,THB,N,TH,CASH,A,Principal Balance,PPSL 
+N,THB,N,TH,CASH,A,Principal Balance,PPSL 
+N,THB,N,TH,CASH,A,Principal Balance,PPSL 
+N,THB,N,TH,CASH,A,Principal Balance,ADJSL
+N,USD,N,DE,CASH,A,Principal Balance,C    
+Y,USD,N,GB,CASH,S,Commitments and Contingencies,PPSL 
+N,BRL,N,GB,OVDFT-LIAB,L,Inventory Position Amount,PPSL 
+N,CNY,Y,GB,OVDFT-LIAB,L,Inventory Position Amount,PPSL 
+N,CNY,Y,GB,CASH,A,Principal Balance,PPSL 
+N,CNY,Y,GB,CASH,A,Principal Balance,PPSL 
+Y,USD,N,US,CASH,A,Principal Balance,PPSL 
+Y,USD,N,US,MULTI-LNS2,A,Accrued Interest Amount,PPSL 
+Y,USD,N,US,CASH,R,Interest Income P&L,PPSL 
+Y,USD,N,US,CASH,A,Principal Balance,PPSL 
+Y,USD,N,US,CASH,A,Principal Balance,PPSL 
+Y,USD,N,US,CASH,R,Interest Income P&L,PPSL 
+Y,USD,N,US,CASH,R,Interest Income P&L,PPSL 
+Y,EUR,N,JE,MULTIPROD,R,Transfer Pricing P&L,PPSL 
+Y,EUR,N,JE,CASH,S,Commitments and Contingencies,PPSL 
+Y,GBP,N,GB,CASH,R,Interest Income P&L,PPSL 
+Y,GBP,N,GB,CASH,R,Interest Income P&L,PPSL 
+Y,GBP,N,GB,MULTI-LNS2,A,Accrued Interest Amount,PPSL 
+Y,GBP,N,GB,MULTI-LNS2,A,Accrued Interest Amount,PPSL 
+Y,USD,N,GB,CASH,R,Interest Income P&L,PPSL 
+Y,USD,N,GB,MULTIPROD,S,Letter of Credit-Issued,PPSL 
+Y,USD,N,GB,MULTIPROD,S,Trans Notional Recvable (FS),PPSL 
+Y,USD,N,GB,MULTI-LNS2,A,Accrued Interest Amount,PPSL 
+Y,PLN,N,NL,CASH,S,Commitments and Contingencies,PPSL 
+Y,PLN,N,NL,CASH,R,Interest Income P&L,PPSL 
+Y,PLN,N,NL,MULTI-LNS2,A,Accrued Interest Amount,PPSL 
+Y,PLN,N,NL,CASH,A,Principal Balance,PPSL 
+N,THB,N,TH,MULTIPROD,S,Account Sum of CR Transactions,C    
+N,THB,N,TH,MULTIPROD,S,Account Sum of DB Transactions,C    
+N,USD,N,SG,CASH,A,Principal Balance,C    
+Y,CHF,N,LU,CASH,R,Interest Income P&L,PPSL 
+Y,CHF,N,LU,CASH,S,Commitments and Contingencies,PPSL 
+Y,CHF,N,LU,CASH,A,Principal Balance,PPSL 
+Y,CHF,N,LU,MULTI-LNS2,A,Accrued Interest Amount,PPSL 
+Y,RUB,N,RU,CASH,A,Principal Balance,PPSL 
+Y,RUB,N,RU,MULTI-LNS2,A,Accrued Interest Amount,PPSL 
+Y,RUB,N,RU,CASH,R,Interest Income P&L,PPSL 
+Y,RUB,N,RU,MULTI-LNS2,A,Accrued Interest Amount,PPSL 
+Y,USD,N,US,CASH,A,Principal Balance,C    
+Y,USD,N,US,CASH,A,Principal Balance,C    
+Y,USD,N,GB,CASH,A,Principal Balance,C    
+Y,USD,N,DE,CASH,A,Principal Balance,C    
+N,USD,N,GB,CASH,S,Commitments and Contingencies,PPSL 
+Y,EUR,N,GB,CASH,A,Principal Balance,PPSL 
+Y,GBP,N,GB,CASH,A,Principal Balance,PPSL 
+Y,GBP,N,GB,CASH,R,Interest Income P&L,PPSL 
+Y,EUR,N,GB,MULTI-LNS2,A,Accrued Interest Amount,PPSL 
+Y,GBP,N,GB,MULTI-LNS2,A,Accrued Interest Amount,PPSL 
+Y,USD,N,US,CASH,A,Principal Balance,PPSL 
+Y,USD,N,US,MULTI-LNS2,A,Accrued Interest Amount,PPSL 
+Y,USD,N,US,CASH,R,Interest Income P&L,PPSL 
+Y,EUR,N,GB,CASH,R,Interest Income P&L,PPSL 
+Y,EUR,N,GB,CASH,R,Interest Income P&L,PPSL 
+Y,EUR,N,GB,MULTI-LNS2,A,Accrued Interest Amount,PPSL 
+Y,EUR,N,GB,MULTI-LNS2,A,Accrued Interest Amount,PPSL 
+Y,EUR,N,GB,MULTIPROD,S,Letter of Credit-Issued,PPSL 
+Y,EUR,N,GB,MULTIPROD,S,Trans Notional Recvable (FS),PPSL 
+N,SEK,Y,LU,CASH,A,Principal Balance,PPSL 
+Y,CZK,N,GB,CASH,A,Principal Balance,C    
+N,USD,N,US,CASH,A,Principal Balance,C    
+N,USD,N,US,CASH,A,Principal Balance,C    
+N,USD,N,US,CASH,A,Principal Balance,C    
+N,USD,N,US,CASH,A,Principal Balance,C    
+N,USD,N,US,CASH,A,Principal Balance,C    
+N,USD,N,US,CASH,A,Principal Balance,C    
+Y,USD,N,US,CASH,A,Principal Balance,C    
+Y,USD,N,US,CASH,A,Principal Balance,C    
+N,USD,N,US,CASH,A,Principal Balance,C    
+N,USD,N,US,CASH,A,Principal Balance,C    
+N,USD,N,US,CASH,A,Principal Balance,C    
+N,USD,N,US,CASH,A,Principal Balance,C    
+N,USD,N,US,CASH,A,Principal Balance,C    
+N,USD,N,US,CASH,A,Principal Balance,C    
+N,MXN,N,MX,CASH,A,Principal Balance,C    
+N,USD,N,HK,CASH,A,Principal Balance,C    
+Y,USD,N,US,CASH,A,Principal Balance,C    
+N,USD,N,CA,CASH,A,Principal Balance,C    
+N,USD,N,GB,CASH,A,Principal Balance,C    
+N,USD,N,US,CASH,A,Principal Balance,C    
+Y,USD,N,SG,CASH,A,Principal Balance,C    
+N,USD,N,MX,CASH,A,Principal Balance,C    
+Y,EUR,N,GB,CASH,R,Interest Income P&L,PPSL 
+Y,EUR,N,GB,MULTI-LNS2,A,Accrued Interest Amount,PPSL 
+Y,EUR,N,GB,MULTI-LNS2,A,Accrued Interest Amount,PPSL 
+Y,EUR,N,GB,CASH,A,Principal Balance,PPSL 
+N,ZMW,Y,GB,CASH,A,Principal Balance,PPSL 
+Y,USD,N,US,CASH,A,Principal Balance,PPSL 
+Y,USD,N,US,MULTI-LNS2,A,Accrued Interest Amount,PPSL 
+Y,USD,N,US,CASH,R,Interest Income P&L,PPSL 
+Y,USD,N,US,CASH,A,Principal Balance,PPSL 
+Y,USD,N,US,MULTI-LNS2,A,Accrued Interest Amount,PPSL 
+Y,USD,N,US,CASH,R,Interest Income P&L,PPSL 
+Y,USD,N,US,CASH,A,Principal Balance,PPSL 
+Y,USD,N,US,CASH,R,Interest Income P&L,PPSL 
+Y,USD,N,US,MULTI-LNS2,A,Accrued Interest Amount,PPSL 
+Y,ZAR,N,TW,CASH,A,Principal Balance,PPSL 
+Y,ZAR,N,TW,MULTI-LNS2,A,Accrued Interest Amount,PPSL 
+Y,ZAR,N,TW,CASH,R,Interest Income P&L,PPSL 
+N,USD,N,BS,CASH,A,Principal Balance,C    
+N,SEK,N,DE,CASH,A,Principal Balance,C    
+N,USD,N,US,CASH,A,Principal Balance,C    
+N,USD,N,US,CASH,A,Principal Balance,C    
+N,KRW,N,SG,MULTIPROD,S,Account Sum of DB Transactions,C    
+N,KRW,N,SG,MULTIPROD,S,Account Sum of CR Transactions,C    
+N,USD,N,JO,CASH,A,Principal Balance,C    
+N,USD,N,GB,CASH,A,Principal Balance,C    
+N,USD,N,BD,CASH,A,Principal Balance,C    
+Y,VND,N,GB,CASH,A,Principal Balance,C    
+N,KRW,N,SG,OVDFT-LIAB,L,Inventory Position Amount,PPSL 
+N,KRW,N,SG,CASH,A,Principal Balance,PPSL 
+N,KRW,N,SG,CASH,A,Principal Balance,PPSL 
+N,KRW,N,SG,OVDFT-LIAB,L,Inventory Position Amount,PPSL 
+N,CLP,Y,GB,OVDFT-LIAB,L,Inventory Position Amount,PPSL 
+Y,USD,N,BG,MULTI-LNS2,A,Accrued Interest Amount,C    
+Y,USD,N,BG,CASH,R,Interest Income P&L,C    
+Y,USD,N,BG,CASH,A,Principal Balance,C    
+Y,USD,N,GB,MULTIPROD,S,GENESIS DEFAULT,C    
+Y,USD,N,US,CASH,A,Principal Balance,C    
+Y,USD,N,US,CASH,A,Principal Balance,PPSL 
+Y,USD,N,US,MULTI-LNS2,A,Accrued Interest Amount,PPSL 
+Y,USD,N,US,CASH,A,Principal Balance,PPSL 
+Y,USD,N,US,MULTI-LNS2,A,Accrued Fee Amount,PPSL 
+Y,TWD,N,TW,MULTIPROD,R,Transfer Pricing P&L,PPSL 
+N,BRL,Y,LU,OVDFT-LIAB,L,Inventory Position Amount,PPSL 
+Y,ZAR,N,GB,CASH,S,Commitments and Contingencies,PPSL 
+Y,ZAR,N,GB,CASH,R,Interest Income P&L,PPSL 
+Y,ZAR,N,GB,CASH,A,Principal Balance,PPSL 
+Y,ZAR,N,GB,MULTI-LNS2,A,Accrued Interest Amount,PPSL 
+N,USD,N,US,CASH,A,Principal Balance,C    
+N,USD,N,US,CASH,A,Principal Balance,C    
+N,USD,N,BS,CASH,A,Principal Balance,C    
+N,USD,N,US,CASH,A,Principal Balance,C    
+N,USD,N,BS,CASH,A,Principal Balance,C    
+N,EUR,N,US,CASH,A,Principal Balance,C    
+N,USD,N,US,CASH,A,Principal Balance,C    
+N,USD,N,US,CASH,A,Principal Balance,C    
+N,USD,N,US,CASH,A,Principal Balance,C    
+N,USD,N,US,CASH,A,Principal Balance,C    
+N,USD,N,US,CASH,A,Principal Balance,C    
+N,MXN,N,MX,CASH,A,Principal Balance,C    
+N,USD,N,KE,CASH,A,Principal Balance,C    
+N,USD,N,PH,CASH,A,Principal Balance,C    
+Y,USD,N,LU,CASH,A,Principal Balance,C    
+Y,USD,N,US,CASH,A,Principal Balance,C    
+Y,USD,N,HK,CASH,A,Principal Balance,C    
+N,USD,N,GB,CASH,A,Principal Balance,C    
+N,AUD,N,GB,OVDFT-LIAB,L,Inventory Position Amount,PPSL 
+Y,GBP,N,GB,CASH,R,Interest Income P&L,PPSL 
+Y,GBP,N,GB,CASH,R,Interest Income P&L,PPSL 
+Y,GBP,N,GB,MULTI-LNS2,A,Accrued Interest Amount,PPSL 
+Y,GBP,N,GB,MULTI-LNS2,A,Accrued Interest Amount,PPSL 
+N,USD,N,HK,CASH,A,Principal Balance,C    
+Y,CNY,N,CN,CASH,A,Principal Balance,C    
+Y,CHF,Y,LU,CASH,A,Principal Balance,PPSL 
+N,INR,N,IN,CASH,A,Principal Balance,C    
+Y,CAD,N,CA,CASH,A,Principal Balance,C    
+N,USD,N,US,CASH,A,Principal Balance,C    
+N,MXN,N,MX,CASH,A,Principal Balance,C    
+N,CRC,N,CR,CASH,A,Principal Balance,C    
+Y,USD,N,VN,MULTIPROD,S,CE - Unpaid Principal Bal Amt,C    
+Y,USD,N,VN,MULTIPROD,S,Interest IENC-Due,C    
+Y,USD,N,VN,MULTIPROD,S,Treasury Trn Px PL - Funding Exp,C    
+Y,USD,N,VN,MULTIPROD,S,Since Inception-Interest Accrue,C    
+Y,USD,N,VN,MULTIPROD,S,Overdue Penalty Interest,C    
+Y,USD,N,VN,MULTIPROD,S,Scheduled Principal Balance Amt,C    
+N,USD,N,GB,CASH,A,Principal Balance,C    
+N,USD,N,US,CASH,A,Principal Balance,C    
+N,USD,N,US,CASH,S,Forward Dated Assets - Buy,C    
+N,USD,N,MX,CASH,A,Principal Balance,C    
+Y,USD,N,GB,CASH,A,Principal Balance,C    
+N,USD,N,BS,CASH,A,Principal Balance,C    
+Y,USD,N,IE,OVDFT-LIAB,L,Principal Balance,C    
+N,USD,N,MX,CASH,A,Principal Balance,C    
+Y,DKK,N,GB,CASH,S,Commitments and Contingencies,PPSL 
+Y,DKK,N,GB,MULTIPROD,R,Interest Income P&L,PPSL 
+N,VND,Y,GB,OVDFT-LIAB,L,Inventory Position Amount,PPSL 
+N,PKR,Y,GB,OVDFT-LIAB,L,Inventory Position Amount,PPSL 
+Y,USD,N,TN,CASH,S,Commitments and Contingencies,PPSL 
+Y,USD,N,TN,CASH,R,Interest Income P&L,PPSL 
+Y,USD,N,TN,MULTI-LNS2,A,Accrued Interest Amount,PPSL 
+Y,USD,N,TN,CASH,A,Principal Balance,PPSL 
+Y,USD,N,US,CASH,A,Principal Balance,PPSL 
+Y,USD,N,US,MULTI-LNS2,A,Accrued Interest Amount,PPSL 
+Y,USD,N,US,CASH,A,Principal Balance,PPSL 
+Y,USD,N,US,CASH,A,Principal Balance,PPSL 
+Y,USD,N,US,CASH,R,Interest Income P&L,PPSL 
+Y,USD,N,US,CASH,R,Interest Income P&L,PPSL 
+N,USD,N,GB,CASH,A,Principal Balance,C    
+N,USD,N,US,CASH,A,Principal Balance,C    
+N,USD,N,US,CASH,A,Principal Balance,C    
+N,USD,N,US,CASH,A,Principal Balance,C    
+N,USD,N,US,CASH,A,Principal Balance,C    
+N,USD,N,US,CASH,A,Principal Balance,C    
+N,USD,N,US,CASH,A,Principal Balance,C    
+N,MXN,N,MX,CASH,A,Principal Balance,C    
+N,TWD,N,SG,MULTIPROD,S,Account Sum of DB Transactions,C    
+N,TWD,N,SG,MULTIPROD,S,Account Sum of CR Transactions,C    
+Y,USD,N,AU,CASH,A,Principal Balance,C    
+N,USD,N,JP,CASH,A,Principal Balance,C    
+N,USD,N,US,CASH,A,Principal Balance,C    
+N,USD,N,US,CASH,A,Principal Balance,C    
+N,USD,N,US,CASH,A,Principal Balance,C    
+Y,USD,N,GA,CASH,A,Principal Balance,C    
+N,USD,N,MX,CASH,A,Principal Balance,C    
+Y,USD,N,GB,CASH,S,Commitments and Contingencies,PPSL 
+Y,USD,N,GB,CASH,R,Interest Income P&L,PPSL 
+Y,USD,N,GB,MULTI-LNS2,A,Accrued Interest Amount,PPSL 
+Y,USD,N,US,CASH,A,Principal Balance,PPSL 
+Y,USD,N,US,MULTI-LNS2,A,Accrued Interest Amount,PPSL 
+Y,EUR,N,GB,CASH,R,Interest Income P&L,PPSL 
+Y,EUR,N,GB,MULTI-LNS2,A,Accrued Interest Amount,PPSL 
+N,IDR,Y,LU,OVDFT-LIAB,L,Inventory Position Amount,PPSL 
+N,KRW,Y,LU,OVDFT-LIAB,L,Inventory Position Amount,PPSL 
+Y,MYR,Y,LU,OVDFT-LIAB,L,Inventory Position Amount,PPSL 
+N,USD,N,US,CASH,A,Principal Balance,C    
+N,USD,N,US,CASH,A,Principal Balance,C    
+N,USD,N,US,CASH,A,Principal Balance,C    
+N,USD,N,US,CASH,A,Principal Balance,C    
+N,USD,N,US,CASH,A,Principal Balance,C    
+N,SEK,N,US,CASH,A,Principal Balance,C    
+N,MXN,N,MX,CASH,A,Principal Balance,C    
+N,CNY,N,HK,MULTIPROD,S,Account Sum of CR Transactions,C    
+N,CNY,N,HK,MULTIPROD,S,Account Sum of DB Transactions,C    
+N,INR,N,IN,MULTIPROD,S,Account Sum of DB Transactions,C    
+N,INR,N,IN,MULTIPROD,S,Account Sum of CR Transactions,C    
+N,USD,N,PL,CASH,A,Principal Balance,C    
+Y,USD,N,DE,CASH,A,Principal Balance,C    
+N,USD,N,CH,CASH,A,Principal Balance,C    
+Y,GBP,N,LK,MULTIPROD,S,Account Sum of DB Transactions,C    
+Y,GBP,N,LK,MULTIPROD,S,Account Sum of CR Transactions,C    
+N,USD,N,US,CASH,A,Principal Balance,C    
+N,USD,N,GB,CASH,A,Principal Balance,C    
+Y,GBP,N,LK,CASH,A,Principal Balance,PPSL 
+Y,GBP,N,LK,CASH,A,Principal Balance,PPSL 
+Y,GBP,N,LK,CASH,A,Principal Balance,PPSL 
+Y,USD,N,KR,CASH,A,Principal Balance,C    
+Y,CAD,N,GB,CASH,S,Commitments and Contingencies,PPSL 
+Y,CAD,N,GB,CASH,R,Interest Income P&L,PPSL 
+Y,CAD,N,GB,MULTI-LNS2,A,Accrued Interest Amount,PPSL 
+Y,CAD,N,GB,CASH,A,Principal Balance,PPSL 
+Y,MYR,N,GB,OVDFT-LIAB,L,Inventory Position Amount,PPSL 
+Y,USD,N,US,CASH,A,Principal Balance,PPSL 
+Y,USD,N,US,MULTI-LNS2,A,Accrued Interest Amount,PPSL 
+Y,USD,N,US,CASH,R,Interest Income P&L,PPSL 
+Y,USD,N,US,CASH,A,Principal Balance,PPSL 
+Y,USD,N,US,CASH,A,Principal Balance,PPSL 
+Y,USD,N,US,CASH,A,Principal Balance,PPSL 
+Y,USD,N,US,CASH,A,Principal Balance,PPSL 
+Y,USD,N,US,MULTI-LNS2,A,Accrued Interest Amount,PPSL 
+Y,USD,N,US,MULTI-LNS2,A,Accrued Interest Amount,PPSL 
+Y,USD,N,US,MULTI-LNS2,A,Accrued Interest Amount,PPSL 
+Y,USD,N,US,MULTI-LNS2,A,Accrued Interest Amount,PPSL 
+Y,USD,N,US,CASH,R,Interest Income P&L,PPSL 
+Y,USD,N,US,CASH,R,Interest Income P&L,PPSL 
+Y,USD,N,US,CASH,R,Interest Income P&L,PPSL 
+Y,USD,N,US,CASH,R,Interest Income P&L,PPSL 
+Y,USD,N,US,CASH,A,Principal Balance,PPSL 
+Y,USD,N,US,CASH,A,Principal Balance,PPSL 
+Y,USD,N,US,MULTI-LNS2,A,Accrued Interest Amount,PPSL 
+Y,USD,N,US,CASH,R,Interest Income P&L,PPSL 
+Y,TWD,N,TW,MULTIPROD,R,Transfer Pricing P&L,PPSL 
+Y,EUR,N,IE,CASH,R,Interest Income P&L,PPSL 
+Y,EUR,N,IE,CASH,S,Commitments and Contingencies,PPSL 
+Y,EUR,N,IE,MULTI-LNS2,A,Accrued Interest Amount,PPSL 
+Y,EUR,N,IE,CASH,A,Principal Balance,PPSL 
+N,USD,N,US,CASH,A,Principal Balance,C    
+N,USD,N,US,CASH,A,Principal Balance,C    
+N,USD,N,US,CASH,A,Principal Balance,C    
+N,EUR,N,US,CASH,A,Principal Balance,C    
+N,USD,N,US,CASH,A,Principal Balance,C    
+N,MXN,N,MX,CASH,A,Principal Balance,C    
+N,BRL,N,HK,MULTIPROD,S,Account Sum of DB Transactions,C    
+N,BRL,N,HK,MULTIPROD,S,Account Sum of CR Transactions,C    
+N,PYG,Y,PY,MULTIPROD,S,Account Sum of DB Transactions,C    
+N,PYG,Y,PY,MULTIPROD,S,Account Sum of CR Transactions,C    
+Y,USD,N,PH,CASH,A,Principal Balance,C    
+N,USD,N,BS,CASH,A,Principal Balance,C    
+N,USD,N,US,CASH,A,Principal Balance,C    
+N,USD,N,US,CASH,A,Principal Balance,C    
+N,USD,N,MX,CASH,A,Principal Balance,C    
+N,USD,N,US,CASH,A,Principal Balance,C    
+Y,USD,N,US,CASH,A,Principal Balance,PPSL 
+Y,USD,N,US,MULTI-LNS2,A,Accrued Interest Amount,PPSL 
+Y,USD,N,US,CASH,R,Interest Income P&L,PPSL 
+Y,USD,N,US,CASH,A,Principal Balance,PPSL 
+Y,USD,N,US,MULTI-LNS2,A,Accrued Interest Amount,PPSL 
+Y,USD,N,US,CASH,R,Interest Income P&L,PPSL 
+Y,USD,N,US,CASH,A,Principal Balance,PPSL 
+Y,USD,N,US,CASH,R,Interest Income P&L,PPSL 
+N,BRL,N,HK,CASH,A,Principal Balance,PPSL 
+N,USD,N,GB,CASH,A,Principal Balance,C    
+N,USD,N,US,CASH,A,Principal Balance,C    
+Y,USD,N,GB,CASH,A,Principal Balance,C    
+Y,USD,N,GB,CASH,A,Principal Balance,C    
+N,USD,N,US,CASH,A,Principal Balance,C    
+Y,USD,N,GB,CASH,S,Commitments and Contingencies,PPSL 
+Y,USD,N,GB,MULTIPROD,R,Interest Income P&L,PPSL 
+N,BRL,N,GB,OVDFT-LIAB,L,Inventory Position Amount,PPSL 
+N,TWD,Y,GB,OVDFT-LIAB,L,Inventory Position Amount,PPSL 
+Y,USD,N,US,CASH,A,Principal Balance,PPSL 
+Y,USD,N,US,MULTI-LNS2,A,Accrued Interest Amount,PPSL 
+Y,USD,N,US,CASH,R,Interest Income P&L,PPSL 
+Y,USD,N,US,CASH,A,Principal Balance,PPSL 
+Y,USD,N,US,CASH,A,Principal Balance,PPSL 
+Y,USD,N,US,MULTI-LNS2,A,Accrued Interest Amount,PPSL 
+Y,USD,N,US,MULTI-LNS2,A,Accrued Interest Amount,PPSL 
+Y,USD,N,US,CASH,R,Interest Income P&L,PPSL 
+Y,USD,N,US,CASH,R,Interest Income P&L,PPSL 
+Y,USD,N,US,MULTI-LNS2,A,Accrued Interest Amount,PPSL 
+Y,USD,N,US,CASH,A,Principal Balance,PPSL 
+Y,JPY,N,FR,CASH,S,Commitments and Contingencies,PPSL 
+Y,SEK,N,DE,CASH,R,Interest Income P&L,PPSL 
+Y,SEK,N,DE,CASH,A,Principal Balance,PPSL 
+Y,USD,N,GB,MULTIPROD,S,Letter of Credit-Issued,PPSL 
+Y,USD,N,GB,CASH,R,Interest Income P&L,PPSL 
+Y,USD,N,GB,MULTIPROD,S,Trans Notional Recvable (FS),PPSL 
+Y,USD,N,GB,MULTI-LNS2,A,Accrued Interest Amount,PPSL 
+Y,CAD,N,CA,CASH,A,Principal Balance,C    
+Y,SGD,N,DE,CASH,A,Principal Balance,C    
+N,JPY,N,DE,CASH,A,Principal Balance,C    
+N,USD,N,US,CASH,A,Principal Balance,C    
+N,USD,N,US,CASH,A,Principal Balance,C    
+N,USD,N,US,CASH,A,Principal Balance,C    
+N,USD,N,US,CASH,A,Principal Balance,C    
+N,USD,N,US,CASH,A,Principal Balance,C    
+N,USD,N,US,CASH,A,Principal Balance,C    
+N,USD,N,US,CASH,A,Principal Balance,C    
+N,TWD,N,SG,MULTIPROD,S,Account Sum of CR Transactions,C    
+N,TWD,N,SG,MULTIPROD,S,Account Sum of DB Transactions,C    
+N,TWD,N,HK,MULTIPROD,S,Account Sum of DB Transactions,C    
+N,TWD,N,HK,MULTIPROD,S,Account Sum of CR Transactions,C    
+Y,USD,N,GB,MULTIPROD,S,GENESIS DEFAULT,C    
+Y,USD,N,PH,CASH,A,Principal Balance,C    
+N,USD,N,ZA,CASH,A,Principal Balance,C    
+Y,USD,N,UA,OVDFT-LIAB,L,Principal Balance,C    
+N,USD,N,US,CASH,A,Principal Balance,C    
+Y,USD,N,GB,CASH,A,Principal Balance,C    
+Y,USD,N,ZM,MULTI-LNS2,A,Accrued Interest Amount,PPSL 
+Y,USD,N,ZM,CASH,R,Interest Income P&L,PPSL 
+Y,USD,N,ZM,CASH,A,Principal Balance,PPSL 
+Y,USD,N,US,CASH,A,Principal Balance,PPSL 
+Y,USD,N,US,CASH,A,Principal Balance,PPSL 
+Y,USD,N,US,CASH,A,Principal Balance,PPSL 
+Y,USD,N,US,CASH,A,Principal Balance,PPSL 
+Y,USD,N,US,MULTI-LNS2,A,Accrued Interest Amount,PPSL 
+Y,USD,N,US,CASH,R,Interest Income P&L,PPSL 
+Y,USD,N,US,CASH,R,Interest Income P&L,PPSL 
+Y,EUR,N,GB,CASH,A,Principal Balance,PPSL 
+Y,GBP,N,GB,CASH,A,Principal Balance,PPSL 
+Y,GBP,N,GB,CASH,R,Interest Income P&L,PPSL 
+N,BRL,N,HK,MULTIPROD,S,Account Sum of CR Transactions,C    
+N,BRL,N,HK,MULTIPROD,S,Account Sum of DB Transactions,C    
+N,INR,N,HK,MULTIPROD,S,Account Sum of DB Transactions,C    
+N,INR,N,HK,MULTIPROD,S,Account Sum of CR Transactions,C    
+N,USD,N,SG,CASH,A,Principal Balance,C    
+Y,USD,N,GB,MULTIPROD,S,GENESIS DEFAULT,C    
+N,USD,N,MX,CASH,A,Principal Balance,C    
+Y,USD,N,GB,CASH,A,Principal Balance,C    
+Y,GBP,N,GB,CASH,A,Principal Balance,C    
+Y,EUR,N,GB,CASH,A,Principal Balance,C    
+Y,USD,N,DE,CASH,A,Principal Balance,C    
+N,USD,N,GB,CASH,S,Commitments and Contingencies,PPSL 
+Y,USD,N,US,CASH,A,Principal Balance,PPSL 
+Y,USD,N,US,MULTI-LNS2,A,Accrued Interest Amount,PPSL 
+Y,USD,N,US,CASH,R,Interest Income P&L,PPSL 
+N,INR,N,HK,CASH,A,Principal Balance,PPSL 
+N,INR,N,HK,CASH,A,Principal Balance,FRM  
+N,INR,N,HK,CASH,A,Principal Balance,PPSL 
+N,INR,N,HK,CASH,A,Principal Balance,FRM  
+N,INR,N,HK,CASH,A,Principal Balance,PPSL 
+N,INR,N,HK,CASH,A,Principal Balance,FRM  
+N,INR,N,HK,CASH,A,Principal Balance,FRM  
+N,USD,N,US,CASH,A,Principal Balance,C    
+N,TWD,N,HK,MULTIPROD,S,Account Sum of DB Transactions,C    
+N,TWD,N,HK,MULTIPROD,S,Account Sum of CR Transactions,C    
+N,INR,N,IN,MULTIPROD,S,Account Sum of DB Transactions,C    
+N,INR,N,IN,MULTIPROD,S,Account Sum of CR Transactions,C    
+Y,CRC,N,CR,CASH,A,Principal Balance,PPSL 
+Y,CRC,N,CR,MULTI-LNS2,A,Accrued Interest Amount,PPSL 
+Y,CRC,N,CR,CASH,R,Interest Income P&L,PPSL 
+Y,USD,N,GB,MULTIPROD,S,GENESIS DEFAULT,C    
+N,THB,N,TH,MULTIPROD,S,Account Sum of DB Transactions,C    
+N,THB,N,TH,MULTIPROD,S,Account Sum of CR Transactions,C    
+N,USD,N,GB,CASH,A,Principal Balance,C    
+N,USD,N,HK,CASH,A,Principal Balance,C    
+Y,USD,N,DE,CASH,A,Principal Balance,C    
+N,USD,N,SG,CASH,A,Principal Balance,C    
+N,USD,N,US,CASH,A,Principal Balance,C    
+Y,USD,N,IN,OVDFT-LIAB,L,Principal Balance,C    
+Y,USD,N,TH,OVDFT-LIAB,L,Principal Balance,C    
+N,USD,N,MX,CASH,A,Principal Balance,C    
+N,USD,N,US,CASH,A,Principal Balance,C    
+N,USD,N,MX,CASH,A,Principal Balance,C    
+N,USD,N,US,CASH,A,Principal Balance,C    
+N,THB,N,TH,OVDFT-LIAB,L,Inventory Position Amount,PPSL 
+N,THB,N,TH,OVDFT-LIAB,L,Inventory Position Amount,PPSL 
+N,THB,N,TH,CASH,A,Principal Balance,PPSL 
+N,THB,N,TH,CASH,A,Principal Balance,PPSL 
+N,THB,N,TH,CASH,A,Principal Balance,ADJSL
+N,USD,N,DE,CASH,A,Principal Balance,C    
+Y,USD,N,US,CASH,A,Principal Balance,PPSL 
+Y,USD,N,US,MULTI-LNS2,A,Accrued Interest Amount,PPSL 
+Y,USD,N,US,CASH,R,Interest Income P&L,PPSL 
+Y,USD,N,US,CASH,A,Principal Balance,PPSL 
+Y,USD,N,US,CASH,A,Principal Balance,PPSL 
+Y,USD,N,US,MULTI-LNS2,A,Accrued Interest Amount,PPSL 
+Y,USD,N,US,CASH,R,Interest Income P&L,PPSL 
+Y,USD,N,US,CASH,A,Principal Balance,PPSL 
+Y,USD,N,DE,CASH,A,Principal Balance,C    
+Y,RUB,Y,GB,OVDFT-LIAB,L,Inventory Position Amount,PPSL 
+Y,RUB,Y,GB,CASH,A,Principal Balance,PPSL 
+Y,USD,N,US,CASH,A,Principal Balance,PPSL 
+Y,USD,N,US,MULTI-LNS2,A,Accrued Interest Amount,PPSL 
+Y,USD,N,US,CASH,A,Principal Balance,PPSL 
+Y,USD,N,US,CASH,A,Principal Balance,PPSL 
+Y,USD,N,US,CASH,R,Interest Income P&L,PPSL 
+Y,USD,N,US,CASH,R,Interest Income P&L,PPSL 
+Y,JPY,N,DE,CASH,S,Commitments and Contingencies,PPSL 
+Y,JPY,N,DE,CASH,A,Principal Balance,PPSL 
+Y,EUR,N,GB,CASH,R,Interest Income P&L,PPSL 
+Y,USD,N,GB,CASH,R,Interest Income P&L,PPSL 
+Y,EUR,N,GB,MULTI-LNS2,A,Accrued Interest Amount,PPSL 
+Y,USD,N,GB,MULTI-LNS2,A,Accrued Interest Amount,PPSL 
+N,KRW,Y,LU,OVDFT-LIAB,L,Inventory Position Amount,PPSL 
+Y,TRY,N,LU,CASH,R,Interest Income P&L,PPSL 
+Y,TRY,N,LU,CASH,S,Commitments and Contingencies,PPSL 
+N,BRL,Y,GB,OVDFT-LIAB,L,Inventory Position Amount,PPSL 
+Y,BRL,N,GB,OVDFT-LIAB,L,Inventory Position Amount,PPSL 
+N,EGP,N,GB,OVDFT-LIAB,L,Inventory Position Amount,PPSL 
+N,KRW,N,GB,OVDFT-LIAB,L,Inventory Position Amount,PPSL 
+Y,TRY,N,LU,CASH,A,Principal Balance,PPSL 
+Y,TRY,N,LU,MULTI-LNS2,A,Accrued Interest Amount,PPSL 
+Y,USD,N,JE,CASH,A,Principal Balance,C    
+N,USD,N,US,CASH,A,Principal Balance,C    
+N,USD,N,US,CASH,A,Principal Balance,C    
+N,USD,N,US,CASH,A,Principal Balance,C    
+N,USD,N,US,CASH,A,Principal Balance,C    
+N,MAD,N,US,CASH,A,Principal Balance,C    
+N,NOK,N,US,OVDFT-LIAB,L,Principal Balance,C    
+N,USD,N,CR,CASH,A,Principal Balance,C    
+Y,CAD,N,CA,CASH,A,Principal Balance,PPSL 
+Y,CAD,N,CA,CASH,R,Interest Income P&L,PPSL 
+Y,CAD,N,CA,MULTI-LNS2,A,Commission Agency Receivable,PPSL 
+Y,USD,N,US,CASH,A,Principal Balance,PPSL 
+Y,USD,N,US,CASH,A,Principal Balance,PPSL 
+Y,USD,N,US,MULTI-LNS2,A,Accrued Interest Amount,PPSL 
+Y,USD,N,US,MULTI-LNS2,A,Accrued Interest Amount,PPSL 
+Y,USD,N,US,CASH,R,Interest Income P&L,PPSL 
+Y,USD,N,US,CASH,R,Interest Income P&L,PPSL 
+Y,USD,N,US,CASH,A,Principal Balance,PPSL 
+Y,USD,N,US,MULTI-LNS2,A,Accrued Interest Amount,PPSL 
+Y,USD,N,US,CASH,R,Interest Income P&L,PPSL 
+N,GBP,N,JE,MULTIPROD,S,Trans Notional Payable (FS),PPSL 
+N,GBP,N,JE,MULTIPROD,R,MTM P&L-FX Revaluation,PPSL 
+N,NZD,N,JE,MULTIPROD,S,Trans Notional Payable (FS),PPSL 
+Y,USD,N,GB,CASH,R,Interest Income P&L,PPSL 
+Y,USD,N,GB,CASH,R,Interest Income P&L,PPSL 
+Y,USD,N,GB,MULTI-LNS2,A,Accrued Interest Amount,PPSL 
+Y,USD,N,GB,MULTI-LNS2,A,Accrued Interest Amount,PPSL 
+N,TWD,N,LU,OVDFT-LIAB,L,Inventory Position Amount,PPSL 
+Y,USD,N,IE,OVDFT-LIAB,L,Inventory Position Amount,PPSL 
+N,USD,N,US,CASH,A,Principal Balance,C    
+N,USD,N,US,CASH,A,Principal Balance,C    

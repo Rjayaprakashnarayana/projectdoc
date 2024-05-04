@@ -1,0 +1,25 @@
+,BASE_CCY_AMT,FNCT_CCY_AMT,TXN_CCY_AMT,IB_FLAG,TXN_CCY,OPER_DPST_FLAG,LV_DMC_CTRY,FRS_ACCOUNT_CLASS,ACCT_TYP,ACTG_UNIT_NM,ROW_SRC_IND,REC_TYP,ARRG_MAT_TYP_CD,BASE_CCY_AMT_TYPE,FNCT_CCY_AMT_TYPE,TXN_CCY_AMT_TYPE
+27,0.0,0.0,0.0,N,CNY,Y,GB,OVDFT-LIAB,L,Inventory Position Amount,PPSL ,T,EVRGRN,Positive,Positive,Positive
+45,0.0,0.0,0.0,Y,USD,N,GB,MULTIPROD,S,Trans Notional Recvable (FS),PPSL ,T,FIXED,Positive,Positive,Positive
+132,2515728.232,3311704.644,3099134976.0,N,KRW,N,SG,OVDFT-LIAB,L,Inventory Position Amount,PPSL ,T,EVRGRN,Positive,Positive,Positive
+135,-2515728.232,-3311704.644,-3099134976.0,N,KRW,N,SG,OVDFT-LIAB,L,Inventory Position Amount,PPSL ,T,EVRGRN,Positive,Positive,Positive
+136,0.0,0.0,0.0,N,CLP,Y,GB,OVDFT-LIAB,L,Inventory Position Amount,PPSL ,T,EVRGRN,Positive,Positive,Positive
+146,-1199.667,-36522.0,-36522.0,Y,TWD,N,TW,MULTIPROD,R,Transfer Pricing P&L,PPSL ,T,FIXED,Positive,Positive,Positive
+147,0.0,0.0,0.0,N,BRL,Y,LU,OVDFT-LIAB,L,Inventory Position Amount,PPSL ,T,EVRGRN,Positive,Positive,Positive
+199,0.0,0.0,0.0,N,VND,Y,GB,OVDFT-LIAB,L,Inventory Position Amount,PPSL ,T,EVRGRN,Positive,Positive,Positive
+200,0.0,0.0,0.0,N,PKR,Y,GB,OVDFT-LIAB,L,Inventory Position Amount,PPSL ,T,EVRGRN,Positive,Positive,Positive
+220,0.0,0.0,0.0,N,TWD,N,SG,MULTIPROD,S,Account Sum of CR Transactions,C    ,A,EVRGRN,Positive,Positive,Zero
+236,0.0,0.0,0.0,N,IDR,Y,LU,OVDFT-LIAB,L,Inventory Position Amount,PPSL ,T,EVRGRN,Positive,Positive,Positive
+237,-0.004,-0.004,-5.0,N,KRW,Y,LU,OVDFT-LIAB,L,Inventory Position Amount,PPSL ,T,EVRGRN,Positive,Positive,Positive
+238,0.0,0.0,0.0,Y,MYR,Y,LU,OVDFT-LIAB,L,Inventory Position Amount,PPSL ,T,EVRGRN,Positive,Positive,Positive
+285,-1285.03,-39054.0,-39054.0,Y,TWD,N,TW,MULTIPROD,R,Transfer Pricing P&L,PPSL ,T,FIXED,Positive,Positive,Positive
+323,0.0,0.0,0.0,N,TWD,Y,GB,OVDFT-LIAB,L,Inventory Position Amount,PPSL ,T,EVRGRN,Positive,Positive,Positive
+342,0.0,0.0,0.0,Y,USD,N,GB,MULTIPROD,S,Trans Notional Recvable (FS),PPSL ,T,FIXED,Positive,Positive,Positive
+355,0.0,0.0,0.0,N,TWD,N,SG,MULTIPROD,S,Account Sum of CR Transactions,C    ,A,EVRGRN,Positive,Positive,Zero
+428,7680229.309,251812062.4,251812062.4,N,THB,N,TH,OVDFT-LIAB,L,Inventory Position Amount,PPSL ,T,EVRGRN,Positive,Positive,Positive
+429,-7680158.544,-251809742.2,-251809742.2,N,THB,N,TH,OVDFT-LIAB,L,Inventory Position Amount,PPSL ,T,EVRGRN,Positive,Positive,Positive
+457,0.0,0.0,0.0,N,KRW,Y,LU,OVDFT-LIAB,L,Inventory Position Amount,PPSL ,T,EVRGRN,Positive,Positive,Positive
+460,0.0,0.0,0.0,N,BRL,Y,GB,OVDFT-LIAB,L,Inventory Position Amount,PPSL ,T,EVRGRN,Positive,Positive,Positive
+486,0.0,0.0,0.0,N,GBP,N,JE,MULTIPROD,S,Trans Notional Payable (FS),PPSL ,T,EVRGRN,Positive,Positive,Positive
+488,0.0,0.0,0.0,N,NZD,N,JE,MULTIPROD,S,Trans Notional Payable (FS),PPSL ,T,EVRGRN,Positive,Positive,Positive
+493,0.0,0.0,0.0,N,TWD,N,LU,OVDFT-LIAB,L,Inventory Position Amount,PPSL ,T,EVRGRN,Positive,Positive,Positive
